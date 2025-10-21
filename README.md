@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Taqeyy Eldeen</h1>
+<h1 align="center">Hey 👋 I'm Taqey Eldeen</h1>
 <p align="center">
   <em>Software Engineer • Full-Stack .NET Developer • Cloud Enthusiast</em>
 </p>
@@ -7,7 +7,7 @@
 
 ### 🌱 About Me  
 I believe software engineering is not just about code — it’s about **structure, precision, and trust**.  
-With a background in **Computer Science** and **Data Science**, I craft applications that are scalable, reliable, and human-centered.  
+With a background in **Computer Science** and **Data Science**, I craft applications that are scalable, reliable, and human-centered.
 
 I’ve worked across the **.NET ecosystem**, building full-stack applications that follow **Clean Architecture**, **SOLID principles**, and **Design Patterns** like Repository and Unit of Work.  
 From **backend APIs** to **frontend design**, I enjoy turning complexity into clarity — and ideas into working systems.
@@ -24,7 +24,7 @@ From **backend APIs** to **frontend design**, I enjoy turning complexity into cl
 ---
 
 ### 🏆 Highlights
-- 🥈 **ICPC ECPC 2025** – Ranked 69th out of 250 teams (Top 30%)  
+- 🥈 **ICPC ECPC 2025** – Ranked 69th out of 250 teams (Top 30 %)  
 - 🛍️ **Cartify Project** – Built a multi-vendor e-commerce platform with 4-layer Clean Architecture and 15+ backend endpoints  
 - ☁️ **AWS Cloud Trainee** – Designed scalable, fault-tolerant solutions using AWS services  
 - 🎓 **HackerRank Java Basics Certified**  
@@ -33,32 +33,32 @@ From **backend APIs** to **frontend design**, I enjoy turning complexity into cl
 
 ### 🛠️ Tech Toolbox
 
-| Domain | Technologies |
-|--------|---------------|
-| **Languages** | C#, Java, JavaScript, Python, SQL |
-| **Frameworks** | ASP.NET Core, MVC, Web API, EF Core |
-| **Frontend** | HTML5, CSS3, Bootstrap, jQuery |
-| **Tools** | Docker, Postman, Swagger, Git, GitHub |
-| **Cloud** | AWS (EC2, S3, RDS, VPC, IAM, CloudWatch) |
+| Domain      | Technologies                                               |
+|-------------|------------------------------------------------------------|
+| **Languages** | C#, Java, JavaScript, Python, SQL                         |
+| **Frameworks** | ASP.NET Core, MVC, Web API, EF Core                       |
+| **Frontend**   | HTML5, CSS3, Bootstrap, jQuery                            |
+| **Tools**      | Docker, Postman, Swagger, Git, GitHub                     |
+| **Cloud**      | AWS (EC2, S3, RDS, VPC, IAM, CloudWatch)                  |
 
 ---
 
-### 📈 GitHub Overview
+### 📈 GitHub Overview  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TaqeyyEldeen&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaqeyyEldeen&layout=compact&theme=tokyonight" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Taqey&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taqey&layout=compact&theme=tokyonight" width="40%" />
 </p>
 
 ---
 
-### 📊 Contribution Graph
+### 📊 Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TaqeyyEldeen&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Taqey&theme=tokyo-night" />
 </p>
 
 ---
 
-### 🔗 Connect With Me
+### 🔗 Connect With Me  
 <p align="center">
   <a href="https://bucolic-cobbler-83dcdd.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white"/>
