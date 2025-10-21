@@ -51,6 +51,32 @@ From **backend APIs** to **frontend design**, I enjoy turning complexity into cl
 
 ---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Taqeyy&show_icons=true&theme=tokyonight" height="150px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taqeyy&theme=tokyonight" height="150px"/>
+</p>
+
+---
+
+### 🗓️ Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Taqeyy&theme=tokyo-night" />
+</p>
+
+---
+
+### 🔗 Connect With Me
+<p align="center">
+  <a href="https://bucolic-cobbler-83dcdd.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/taqeyy/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
 ### 🤝 Let’s Connect  
 <p align="center">
   <a href="https://www.linkedin.com/in/taqeyy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
