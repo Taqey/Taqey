@@ -15,19 +15,19 @@ From **backend APIs** to **frontend design**, I enjoy turning complexity into cl
 ---
 
 ### ⚡ What I Do
-- 🧩 Build full-stack applications using **C#, ASP.NET Core, MVC, Web API, EF Core, LINQ, SQL Server**.  
-- 🖥️ Design responsive frontends with **HTML, CSS, Bootstrap, JavaScript, jQuery**.  
-- ☁️ Work with **AWS Cloud** (EC2, S3, RDS, IAM, CloudWatch, VPC).  
-- 🧠 Apply **Clean Architecture**, **Microservices**, and **Serverless** concepts.  
-- 🧪 Use **Postman**, **Swagger**, and **Docker** to validate and deploy APIs.  
+- 🧩 Build full-stack applications using **C#, ASP.NET Core, MVC, Web API, EF Core, LINQ, SQL Server**  
+- 🖥️ Design responsive frontends with **HTML, CSS, Bootstrap, JavaScript, jQuery**  
+- ☁️ Work with **AWS Cloud** (EC2, S3, RDS, IAM, CloudWatch, VPC)  
+- 🧠 Apply **Clean Architecture**, **Microservices**, and **Serverless** concepts  
+- 🧪 Use **Postman**, **Swagger**, and **Docker** to validate and deploy APIs  
 
 ---
 
 ### 🏆 Highlights
-- 🥈 **ICPC ECPC 2025** – Ranked 69th out of 250 teams (Top 30%).  
-- 🛍️ **Cartify Project** – Built a multi-vendor e-commerce platform with 4-layer Clean Architecture and 15+ backend endpoints.  
-- ☁️ **AWS Cloud Trainee** – Designed scalable, fault-tolerant solutions using AWS services.  
-- 🎓 **HackerRank Java Basics Certified**.  
+- 🥈 **ICPC ECPC 2025** – Ranked 69th out of 250 teams (Top 30%)  
+- 🛍️ **Cartify Project** – Built a multi-vendor e-commerce platform with 4-layer Clean Architecture and 15+ backend endpoints  
+- ☁️ **AWS Cloud Trainee** – Designed scalable, fault-tolerant solutions using AWS services  
+- 🎓 **HackerRank Java Basics Certified**  
 
 ---
 
@@ -43,25 +43,17 @@ From **backend APIs** to **frontend design**, I enjoy turning complexity into cl
 
 ---
 
-### 📈 GitHub Overview  
+### 📈 GitHub Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TaqeyyEldeen&show_icons=true&theme=transparent" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaqeyyEldeen&layout=compact&theme=transparent" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TaqeyyEldeen&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaqeyyEldeen&layout=compact&theme=tokyonight" width="40%" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Taqeyy&show_icons=true&theme=tokyonight" height="150px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taqeyy&theme=tokyonight" height="150px"/>
-</p>
-
----
-
-### 🗓️ Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Taqeyy&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TaqeyyEldeen&theme=tokyo-night" />
 </p>
 
 ---
@@ -74,16 +66,11 @@ From **backend APIs** to **frontend design**, I enjoy turning complexity into cl
   <a href="https://www.linkedin.com/in/taqeyy/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
-
----
-### 🤝 Let’s Connect  
-<p align="center">
-  <a href="https://www.linkedin.com/in/taqeyy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:taqeyy@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+  <a href="mailto:taqeyy@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">✨ “I build with purpose — precision, scalability, and impact.” ✨</p>
-
