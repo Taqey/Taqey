@@ -1,5 +1,34 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>
+<h1 align="center">Hey 👋 I'm Taqey Eldeen</h1>
+<p align="center">
+  <em>Software Engineer • Full-Stack .NET Developer • Cloud Enthusiast</em>
+</p>
+
+---
+
+### 🌱 About Me  
+I believe software engineering is not just about code — it’s about *structure, precision, and trust*.  
+With a background in *Computer Science* and *Data Science*, I craft applications that are scalable, reliable, and human-centered.
+
+I’ve worked across the *.NET ecosystem, building full-stack applications that follow **Clean Architecture, **SOLID principles, and **Design Patterns* like Repository and Unit of Work.  
+From *backend APIs* to *frontend design*, I enjoy turning complexity into clarity — and ideas into working systems.
+
+---
+
+### ⚡ What I Do
+- 🧩 Build full-stack applications using *C#, ASP.NET Core, MVC, Web API, EF Core, LINQ, SQL Server*  
+- 🖥️ Design responsive frontends with *HTML, CSS, Bootstrap, JavaScript, jQuery*  
+- ☁️ Work with *AWS Cloud* (EC2, S3, RDS, IAM, CloudWatch, VPC)  
+- 🧠 Apply *Clean Architecture, **Microservices, and **Serverless* concepts  
+- 🧪 Use *Postman, **Swagger, and **Docker* to validate and deploy APIs  
+
+---
+
+### 🏆 Highlights
+- 🥈 *ICPC ECPC 2025* – Ranked 69th out of 250 teams (Top 30 %)  
+- 🛍️ *Cartify Project* – Built a multi-vendor e-commerce platform with 4-layer Clean Architecture and 15+ backend endpoints  
+- ☁️ *AWS Cloud Trainee* – Designed scalable, fault-tolerant solutions using AWS services  
+- 🎓 *HackerRank Java Basics Certified*  
 
 
 ## 🌐 Socials:
