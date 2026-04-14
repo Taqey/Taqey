@@ -17,9 +17,9 @@ From *backend APIs* to *frontend design*, I enjoy turning complexity into clarit
 
 ### ⚡ What I Do
 - 🧩 Build full-stack applications using *C#, ASP.NET Core, MVC, Web API, EF Core, LINQ, SQL Server*  
-- 🖥️ Design responsive frontends with *HTML, CSS, Bootstrap, JavaScript, jQuery*  
+- 🖥️ Design responsive frontends with *HTML, CSS, Bootstrap, JavaScript, jQuery,Angular*  
 - ☁️ Work with *AWS Cloud* (EC2, S3, RDS, IAM, CloudWatch, VPC)  
-- 🧠 Apply *Clean Architecture, **Microservices, and **Serverless* concepts  
+- 🧠 Apply *Clean Architecture 
 - 🧪 Use *Postman, **Swagger, and **Docker* to validate and deploy APIs  
 
 ---
